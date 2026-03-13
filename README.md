@@ -1,4 +1,4 @@
-# Kurin (Kurin_dh) 🪂
+# KangTran (Kurin_dh) 🪂
 
 🧠 Web3 Researcher • Alpha Seeker  
 🚀 Airdrop Hunter • Early User  
