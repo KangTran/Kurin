@@ -32,6 +32,10 @@ https://kangtran.github.io/web3-opportunity-radar/
 
 > Discover early. Position quietly. Move before the crowd.
 
+## 🤝 Collaboration
+
+Open to collaboration on research tools & ecosystem analytics
+
 ---
 
 ## 🌐 Philosophy
