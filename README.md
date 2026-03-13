@@ -1,31 +1,44 @@
-# KangTran 🪂
+# KangTran ⚡
 
-🧠 Web3 Researcher • Alpha Seeker  
-🚀 Airdrop Hunter • Early User  
-🌐 Navigating the on-chain frontier  
+## 🧠 Web3 Researcher & Builder
 
----
+Tracking asymmetric opportunities before consensus forms.
 
-## ⚡ About Me
+🚀 Creator of **Web3 Opportunity Radar**  
+🔍 Early-stage ecosystem discovery • Testnets • Airdrops • On-chain signals  
 
-- 🔎 Discovering promising Web3 projects before they trend  
-- 🪂 Active airdrop hunter & early ecosystem participant  
-- 📊 Researching tokenomics, narratives, and protocol design  
-- ✍️ Sharing insights on crypto trends and emerging tech  
-- ⛓️ Living on-chain  
+👉 Live Tool:  
+https://kangtran.github.io/web3-opportunity-radar/
 
 ---
 
-## 🧭 Focus Areas
+## 🛰️ What I Do
 
-`DeFi` • `Layer 1 / Layer 2` • `Restaking` • `Modular` • `ZK` • `AI x Crypto`
-
----
-
-## 📡 Current Mission
-
-> Hunt early. Stay ahead. Capture alpha.
+- Identify promising protocols before they trend  
+- Participate in early networks, testnets, and launches  
+- Analyze token design, narratives, and ecosystem dynamics  
+- Build lightweight tools for opportunity discovery  
+- Operate primarily on-chain  
 
 ---
 
-⭐ Always exploring the next big opportunity in Web3
+## 🎯 Focus Areas
+
+`DeFi` • `L1/L2` • `Restaking` • `Modular` • `ZK` • `AI × Crypto`
+
+---
+
+## 🧭 Current Objective
+
+> Discover early. Position quietly. Move before the crowd.
+
+---
+
+## 🌐 Philosophy
+
+Long-term edge comes from being early, informed, and consistent —  
+not from chasing hype.
+
+---
+
+⭐ Always exploring emerging ecosystems and asymmetric bets
